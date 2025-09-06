@@ -23,8 +23,8 @@
    ```
 
 ### 解包操作
-- 你可以访问此链接下载Kid Fans Club自研引擎的代表作进行实验
-  秋之回忆2 Pure Story ～雪萤～
+- 你可以访问此链接下载Kid Fans Club自研引擎的代表作 秋之回忆2 Pure Story ～雪萤～ 进行试验
+
   地址：https://www.lanzouq.com/b00q0siape 密码:3fnf
 
 #### 单文件解包
