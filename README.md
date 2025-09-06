@@ -1,7 +1,7 @@
 # KFC自研引擎DAT文件解包/封包工具
 
 ## 项目简介
-本工具集专为Kid Fans Club（KFC）自研Galgame引擎设计的DAT资源包处理工具，包含：
+本工具集是专为Kid Fans Club（KFC）自研Galgame引擎设计的DAT资源包处理工具，包含：
 - **解包工具**：`unpacker.py`（单文件解包）和`unpacker_batch.py`（批量解包）
 - **封包工具**：`packer.py`（文件夹打包为DAT）
 
